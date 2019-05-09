@@ -1,0 +1,33 @@
+title = "Huntsville AI"
+baseURL = "https://hsv-ai.com"
+languageCode = "en-us"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+disqusShortname = "hsv-ai"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = "https://www.facebook.com/groups/390465874745286/"
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/HSV-AI"
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/groups/12177562/"
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/franck-v-740555-unsplash.jpg"
+  recent_posts_number = 2
