@@ -6,17 +6,16 @@ featured_image = ""
 description = ""
 +++
 
-# Word & Document Vectors
-
 Huntsville AI - May 8, 2019
 
-Facebook: Huntsville Ai
+View the IPython notebook for this session on Github [here](https://github.com/HSV-AI/presentations/blob/master/2019/190508_Word_Document_Vectors.ipynb)
 
-LinkedIn: Huntsville AI
+Or launch the notebook in Google Colab or MyBinder:
 
-GitHub: HSV-AI
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/HSV-AI/presentations/blob/master/2019/190508_Word_Document_Vectors.ipynb)
 
-Mailing List - send an e-mail to jlangley@sessionboard.com to be added
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/hsv-ai-presentations-n4yij7wr/notebooks/2019/190508_Word_Document_Vectors.ipynb)
 
 # Introduction
 

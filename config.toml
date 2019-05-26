@@ -7,7 +7,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "UA-139852367-1"
 enableRobotsTXT = true
 disqusShortname = "hsv-ai"
 
@@ -18,7 +18,7 @@ disqusShortname = "hsv-ai"
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Advancing AI in the Huntsville area"
   facebook = "https://www.facebook.com/groups/390465874745286/"
   twitter = ""
   instagram = ""
@@ -31,3 +31,4 @@ disqusShortname = "hsv-ai"
   background_color_class = "bg-black"
   featured_image = "/images/franck-v-740555-unsplash.jpg"
   recent_posts_number = 2
+  logo = "/images/logo_v9.png"
