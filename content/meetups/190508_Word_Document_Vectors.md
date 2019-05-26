@@ -15,7 +15,7 @@ Or launch the notebook in Google Colab or MyBinder:
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/HSV-AI/presentations/blob/master/2019/190508_Word_Document_Vectors.ipynb)
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/hsv-ai-presentations-n4yij7wr/notebooks/2019/190508_Word_Document_Vectors.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSV-AI/presentations/master?filepath=2019/190508_Word_Document_Vectors.ipynb)
 
 # Introduction
 
