@@ -6,7 +6,17 @@ featured_image = ""
 description = ""
 +++
 
-Huntsville AI - May 8, 2019
+# Introduction
+
+From [Wikipedia](https://en.wikipedia.org/wiki/Word_embedding): 
+
+Word embedding is the collective name for a set of language modeling and feature learning techniques in natural language processing (NLP) where words or phrases from the vocabulary are mapped to vectors of real numbers. Conceptually it involves a mathematical embedding from a space with many dimensions per word to a continuous vector space with a much lower dimension.
+
+<!--more-->
+
+The main function is to create a vector of numbers that represent a word based on the context in which that word is used. These vectors can then be used in a relative fashion to determine the relatedness of words.
+
+# Notebook Links
 
 View the IPython notebook for this session on Github [here](https://github.com/HSV-AI/presentations/blob/master/2019/190508_Word_Document_Vectors.ipynb)
 
@@ -14,18 +24,7 @@ Or launch the notebook in Google Colab or MyBinder:
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/HSV-AI/presentations/blob/master/2019/190508_Word_Document_Vectors.ipynb)
 
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSV-AI/presentations/master?filepath=2019/190508_Word_Document_Vectors.ipynb)
-
-# Introduction
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Word_embedding): 
-
-> Word embedding is the collective name for a set of language modeling and feature learning techniques in natural language processing (NLP) where words or phrases from the vocabulary are mapped to vectors of real numbers. Conceptually it involves a mathematical embedding from a space with many dimensions per word to a continuous vector space with a much lower dimension.
-
-
-The main function is to create a vector of numbers that represent a word based on the context in which that word is used. These vectors can then be used in a relative fashion to determine the relatedness of words.
-
 
 # Papers
 

@@ -6,8 +6,11 @@ featured_image = ""
 description = ""
 +++
 
+This is an overview of using the AWS Rekognition Service. As a starting point, we will use an image as a basis to work with. The Rekognition service can work with either images from an S3 bucket or from a stream of bytes. Here is a plot of the image that we are using:
 
-Huntsville AI - February 27, 2019
+<!--more-->
+
+# Notebooks
 
 View the IPython notebook for this session on Github [here](https://github.com/HSV-AI/presentations/blob/master/2019/190227/Amazon_Rekognition.ipynb)
 
@@ -18,11 +21,7 @@ Or launch the notebook in Google Colab or MyBinder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSV-AI/presentations/master?filepath=2019/190227/Amazon_Rekognition.ipynb)
 
-
-# Amazon Rekognition Service
-
-This is an overview of using the AWS Rekognition Service. As a starting point, we will use an image as a basis to work with. The Rekognition service can work with either images from an S3 bucket or from a stream of bytes. Here is a plot of the image that we are using:
-
+#Code 
 
 ```python
 %matplotlib inline

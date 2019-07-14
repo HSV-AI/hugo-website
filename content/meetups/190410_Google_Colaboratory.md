@@ -6,11 +6,11 @@ featured_image = ""
 description = ""
 +++
 
-# Google Colaboratory
-
 ## Agenda:
 1. Brainstorm Ideas for Sessions
 2. Play with Google Colaboratory
+
+<!--more-->
 
 ## Ideas from Brainstorming
 * NLP (clustering, sentiment analysis)

@@ -6,23 +6,21 @@ featured_image = ""
 description = ""
 +++
 
+This discussion covered selected SBIR topics that included some type of Artificial Intelligence or Machine Learning in the description.
+
 ## More information:
 
 [STTR 19.2](https://www.fbo.gov/index.php?s=opportunity&mode=form&id=82cbf6c93c77bee0ffa23d2cc8c2b422&tab=core&_cview=0&fbclid=IwAR2ddfEFkyEvUIEH-b5Ws2DmINOrRM7Y84X0J19GQmQWrW2kX44fDHe6xw4)
 
 [SBIR 19.2](https://www.fbo.gov/index?s=opportunity&mode=form&id=0a3eac1d27ab54cfe57a0339b3f863d8&tab=core&_cview=0&fbclid=IwAR3bpKUeOgtN6AMdolrbpUaefVQjSrV-Hbe86M1CNOKC46lNFQ6eN25LCNU)
 
+<!--more-->
+
 ## Export Control:
 
 Many of these topics include this statement:
 
-The technology within this topic is restricted under the International Traffic in Arms Regulation (ITAR), 22 CFR
-Parts 120-130, which controls the export and import of defense-related material and services, including export of
-sensitive technical data, or the Export Administration Regulation (EAR), 15 CFR Parts 730-774, which controls dual
-use items. Offerors must disclose any proposed use of foreign nationals (FNs), their country(ies) of origin, the type
-of visa or work permit possessed, and the statement of work (SOW) tasks intended for accomplishment by the FN(s)
-in accordance with section 3.5 of the Announcement. Offerors are advised foreign nationals proposed to perform on
-this topic may be restricted due to the technical data under US Export Control Laws.
+The technology within this topic is restricted under the International Traffic in Arms Regulation (ITAR), 22 CFR Parts 120-130, which controls the export and import of defense-related material and services, including export of sensitive technical data, or the Export Administration Regulation (EAR), 15 CFR Parts 730-774, which controls dual use items. Offerors must disclose any proposed use of foreign nationals (FNs), their country(ies) of origin, the type of visa or work permit possessed, and the statement of work (SOW) tasks intended for accomplishment by the FN(s) in accordance with section 3.5 of the Announcement. Offerors are advised foreign nationals proposed to perform on this topic may be restricted due to the technical data under US Export Control Laws.
 
 ## AF192-028 EO/IR-Specific State of the Art Machine Learning
 

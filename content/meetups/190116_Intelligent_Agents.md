@@ -6,8 +6,8 @@ featured_image = ""
 description = ""
 +++
 
-Huntsville AI - January 16, 2019
-
 Dr. Phil Bording let the session covering Intelligent Agents. You can download the slides below:
 
 [Powerpoint Slides](https://github.com/HSV-AI/presentations/blob/master/2019/190116_m1002_Intelligent_Agents.pptx?raw=true)
+
+<!--more-->
