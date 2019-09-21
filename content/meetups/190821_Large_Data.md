@@ -6,11 +6,11 @@ featured_image = ""
 description = ""
 +++
 
-We talked about approaches to work with large datasets when training deep neural networks.
-
-<a href="https://colab.research.google.com/github/HSV-AI/presentations/blob/master/2019/190821_Large_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+We talked about approaches to work with large datasets when training deep neural networks. Specifically, using the generator from the Keras package to provide batch-by-batch training data for an LSTM.
 
 <!--more-->
+
+<a href="https://colab.research.google.com/github/HSV-AI/presentations/blob/master/2019/190821_Large_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Agenda
 
