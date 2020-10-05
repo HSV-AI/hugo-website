@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/HSV-AI/hsv-ai.github.io.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/HSV-AI/gohugo-theme-ananke.git
